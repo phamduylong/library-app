@@ -1,0 +1,16 @@
+[
+    {
+        "id": 3,
+        "email": "testuser@prisma.io",
+        "password": "test123",
+        "name": "Test User",
+        "borrowing": []
+    },
+    {
+        "id": 4,
+        "email": "testuser2@prisma.io",
+        "password": "test1234",
+        "name": "Test User 2",
+        "borrowing": []
+    }
+]
